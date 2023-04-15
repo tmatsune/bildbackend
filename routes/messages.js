@@ -2,7 +2,6 @@
 import express from 'express'
 import Message from '../models/Message.js'
 import Groupchat from '../models/Groupchat.js'
-import { RawShaderMaterial } from 'three'
 
 const router = express.Router()
 
